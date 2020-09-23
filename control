@@ -1,0 +1,9 @@
+Package: com.abdullah.twitterdisablenewsharemenu
+Name: TwitterDisableØNewShareMenu
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Disable the new share menu in twitter app!
+Maintainer: Abdullah
+Author: Abdullah
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
